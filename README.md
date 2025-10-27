@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email**: mrvirus@medal-team.com
 - **LinkedIn**: [mohamad-abouhamad](https://linkedin.com/in/mohamad-abouhamad)
-- **GitHub**: [mohamed-abouhamad](https://github.com/mrvirusdev)
+- **GitHub**: [Mohamad Mostafa](https://github.com/itz-virus)
 
 ## 🙏 Acknowledgments
 
@@ -201,6 +201,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you like the project, don't forget to give it a star! ⭐**
 
-Made with ❤️ by [Mohamed Abouhamad](https://github.com/mrvirusdev)
+Made with ❤️ by [Mohamed Mostafa](https://github.com/itz-virus)
 
 </div>
